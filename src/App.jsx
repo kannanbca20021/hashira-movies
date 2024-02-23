@@ -13,7 +13,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Player from './pages/Player';
 import Search from './pages/Search';
 import { Helmet } from "react-helmet";
-import logo from "./assets/images/logo.png"
+import logo from "./assets/images/log.png"
 
 function App() {
 
