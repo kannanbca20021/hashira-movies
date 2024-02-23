@@ -83,9 +83,9 @@ function Navbar() {
                     </>
                         :
                         <>
-                            <Link to="/login" className="w-full bg-gray-900 py-2 gap-4 rounded-xl flex items-center justify-center font-semibold border-2 border-blue-100/10" onClick={() => setActivemobile(!activemobile)}>
+                            {/* <Link to="/login" className="w-full bg-gray-900 py-2 gap-4 rounded-xl flex items-center justify-center font-semibold border-2 border-blue-100/10" onClick={() => setActivemobile(!activemobile)}>
                                 <h1>Log in</h1>
-                            </Link>
+                            </Link> */}
                         </>
                     }
                 </div>
